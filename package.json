@@ -1,0 +1,23 @@
+{
+  "name": "branchProtection",
+  "version": "1.0.0",
+  "description": "a chagne to triger can-merge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartik18g/branchProtection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartik18g/branchProtection/issues"
+  },
+  "homepage": "https://github.com/Kartik18g/branchProtection#readme",
+  "dependencies": {
+    "can-merge": "file:../../../Downloads/can-merge-main"
+  }
+}
